@@ -126,13 +126,11 @@ Interpretation:
 
 # Output
 
-Dataset
+The analysis produces the following visualization of factor exposures:
 
-data/factor_dataset.csv
+![Factor Exposures Chart](results_factor_exposure.png)
 
-Regression results
-
-results/fama_french_regression.txt
+*Figure 1: Percentage of total risk explained by each of the Fama-French three factors.*
 
 
 ## Factor Exposure
@@ -221,3 +219,4 @@ Python libraries:
 
 This project is intended for educational and research purposes only.
 It does not constitute financial advice or investment recommendations.
+
